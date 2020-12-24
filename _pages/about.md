@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Eric Verbeke academic home page"
+title: "Home - Eric Verbeke"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Home page info
+Overview -
