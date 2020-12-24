@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,3 +9,8 @@ redirect_from:
 ---
 
 Overview -
+
+
+
+
+contact: eric.verbeke@utexas.edu
