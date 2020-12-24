@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home - Eric Verbeke"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
