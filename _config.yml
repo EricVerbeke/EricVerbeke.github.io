@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Eric Verbeke"
 title_separator          : "-"
 name                     : &name "Eric Verbeke"
-description              : &description "Structural and Systems Biology"
+description              : &description
 url                      : https://EricVerbeke.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "EricVerbeke/EricVerbeke.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Eric Verbeke"
   avatar           : "profile.png"
-  bio              : "Structural and Systems Biology"
+  bio              : "cryoEM and systems biology"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
