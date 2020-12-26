@@ -21,7 +21,7 @@ CL McCafferty, ***EJ Verbeke***, EM Marcotte, DW Taylor
 ------
 
 
-<img src="../images/Langmuir_2020_abstract.gif" align=left width="400"/>  
+<img src="../images/Langmuir_2020_abstract.png" align=left width="400"/>  
 
 ### [Functionalized Mesoporous Silicas Direct Structural Polymorphism of Amyloid-β Fibrils](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.0c00827)  
 MJ Lucas\*, H Pan\*, ***EJ Verbeke****, LJ Webb, DW Taylor, BK Keitz  
