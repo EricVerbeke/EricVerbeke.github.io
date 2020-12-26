@@ -83,12 +83,12 @@ author:
   name             : "Eric Verbeke"
   avatar           : "profile.png"
   bio              : "cryoEM and systems biology"
-  location         : #"Location"
+  location         : 
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0jB6ICsAAAAJ&hl=en"
-  email            : "eric.verbeke@utexas.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : 
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
