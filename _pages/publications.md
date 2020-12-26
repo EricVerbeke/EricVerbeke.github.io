@@ -10,14 +10,12 @@ author_profile: true
 
 <img src="../images/JCIM_2020_abstract.jpeg" align=left width="400"/>  
 
-<br/>
-
 ### [Structural Biology in the Multi-Omics Era](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b01164)  
 CL McCafferty, ***EJ Verbeke***, EM Marcotte, DW Taylor  
 
 *Journal of Chemical Information and Modeling*
 
-<br clear="left"/><br/>
+<br clear="left"/>
 
 
 ------
@@ -31,7 +29,7 @@ MJ Lucas\*, H Pan\*, ***EJ Verbeke****, LJ Webb, DW Taylor, BK Keitz
 
 *Langmuir*
 
-<br clear="left"/><br/>
+<br clear="left"/>
 
 
 ------
@@ -52,13 +50,11 @@ MJ Lucas\*, H Pan\*, ***EJ Verbeke****, LJ Webb, DW Taylor, BK Keitz
 
 <img src="../images/JBC_2019_fig2.png" align=left width="400"/>  
 
-<br/>
-
 ### [Electron microscopy snapshots of single particles from single cells](https://www.jbc.org/content/294/5/1602.short)  
 X Yi\*, ***EJ Verbeke****, Y Chang\*, DJ Dickinson, DW Taylor  
 *Journal of Biological Chemistry*
 
-<br clear="left"/><br/>
+<br clear="left"/>
 
 
 ------
@@ -70,7 +66,7 @@ X Yi\*, ***EJ Verbeke****, Y Chang\*, DJ Dickinson, DW Taylor
 ***EJ Verbeke***, AL Mallam, K Drew, EM Marcotte, DW Taylor  
 *Cell Reports*  
 
-<br clear="left"/><br/>
+<br clear="left"/>
 
 
 ------
@@ -82,7 +78,7 @@ X Yi\*, ***EJ Verbeke****, Y Chang\*, DJ Dickinson, DW Taylor
 KP Wall, M Pagratis, G Armstrong, JL Balsbaugh, ***EJ Verbeke***, CG Pearson, LE Hough  
 *ACS Chemical Biology*  
 
-<br clear="left"/><br/>
+<br clear="left"/>
 
 
 ------
