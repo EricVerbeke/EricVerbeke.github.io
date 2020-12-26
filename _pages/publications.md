@@ -23,7 +23,6 @@ CL McCafferty, ***EJ Verbeke***, EM Marcotte, DW Taylor
 
 <img src="../images/Langmuir_2020_abstract.gif" align=left width="400"/>  
 
-
 ### [Functionalized Mesoporous Silicas Direct Structural Polymorphism of Amyloid-β Fibrils](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.0c00827)  
 MJ Lucas\*, H Pan\*, ***EJ Verbeke****, LJ Webb, DW Taylor, BK Keitz  
 
@@ -42,7 +41,7 @@ MJ Lucas\*, H Pan\*, ***EJ Verbeke****, LJ Webb, DW Taylor, BK Keitz
 
 *Journal of Structural Biology*  
 
-<br clear="left"/><br/>
+<br clear="left"/>
 
  
 ------
@@ -51,7 +50,8 @@ MJ Lucas\*, H Pan\*, ***EJ Verbeke****, LJ Webb, DW Taylor, BK Keitz
 <img src="../images/JBC_2019_fig2.png" align=left width="400"/>  
 
 ### [Electron microscopy snapshots of single particles from single cells](https://www.jbc.org/content/294/5/1602.short)  
-X Yi\*, ***EJ Verbeke****, Y Chang\*, DJ Dickinson, DW Taylor  
+X Yi\*, ***EJ Verbeke****, Y Chang\*, DJ Dickinson, DW Taylor
+
 *Journal of Biological Chemistry*
 
 <br clear="left"/>
@@ -64,6 +64,7 @@ X Yi\*, ***EJ Verbeke****, Y Chang\*, DJ Dickinson, DW Taylor
 
 ### [Classification of single particles from human cell extract reveals distinct structures](https://doi.org/10.1016/j.celrep.2018.06.022)  
 ***EJ Verbeke***, AL Mallam, K Drew, EM Marcotte, DW Taylor  
+
 *Cell Reports*  
 
 <br clear="left"/>
@@ -76,6 +77,7 @@ X Yi\*, ***EJ Verbeke****, Y Chang\*, DJ Dickinson, DW Taylor
 
 ### [Molecular determinants of tubulin’s C-terminal tail conformational ensemble](https://doi.org/10.1021/acschembio.6b00507)  
 KP Wall, M Pagratis, G Armstrong, JL Balsbaugh, ***EJ Verbeke***, CG Pearson, LE Hough  
+
 *ACS Chemical Biology*  
 
 <br clear="left"/>
