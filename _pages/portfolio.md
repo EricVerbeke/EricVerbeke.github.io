@@ -21,8 +21,6 @@ change portfolio.html to md
 Software for separating multiple distinct structures in single particle cryoEM data  
 [SLICEM on GitHub](https://github.com/marcottelab/SLICEM)
 
-<br/>
-
-<img src="../media/Intro.gif" align=left width="400"/>
+<img src="../media/Intro.gif" align=left width="800"/>
 
 <br clear="left"/>
