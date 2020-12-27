@@ -8,9 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Overview -
+---
+
+about me
 
 
 
 
-contact: eric.verbeke@utexas.edu
+
+### Contact
+---
+eric.verbeke@utexas.edu
