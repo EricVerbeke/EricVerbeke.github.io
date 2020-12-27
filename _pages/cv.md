@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-# Education 	
+------
+
+# Education 
 
 Ph.D. in Biochemistry, University of Texas at Austin (2016 - present)  
 B.S. in Chemical and Biological Engineering, University of Colorado at Boulder (2015)
@@ -38,7 +40,7 @@ Structural Biology in the Multi-Omics Era.
 *J. Chem. Inf. Model.*](https://doi.org/10.1021/acs.jcim.9b01164)
 
 
-[Lucas, M.J.\*, Pan, H.S.\*, ***Verbeke, E.J.****, Webb, L.J., Taylor, D.W., Keitz, K.K. (2020).  
+[Lucas, M.J.\*, Pan, H.S.\*, ***Verbeke, E.J.\****, Webb, L.J., Taylor, D.W., Keitz, K.K. (2020).  
 Functionalized Mesoporous Silicas Direct Structural Polymorphism of Amyloid-β Fibrils.  
 *Langmuir*](https://doi.org/10.1021/acs.langmuir.0c00827)
 
@@ -48,7 +50,7 @@ Separating distinct structures of multiple macromolecular assemblies from cryo-E
 *J. Struct. Biol.*](https://doi.org/10.1016/j.jsb.2019.107416)
 
 
-[Yi, X.\*, ***Verbeke, E.J.****, Chang, Y.\*, Dickinson, D.J., Taylor, D.W. (2019).  
+[Yi, X.\*, ***Verbeke, E.J.\****, Chang, Y.\*, Dickinson, D.J., Taylor, D.W. (2019).  
 Electron microscopy snapshots of single particles from single cells.  
 *J. Biol. Chem.*](https://doi.org/10.1074/jbc.RA118.006686)
 
@@ -82,10 +84,10 @@ Molecular Determinants of Tubulin’s C-Terminal Tail Conformational Ensemble.
 
 # Talks and Conferences  
 - Title: Developments in shotgun cryo-EM - probing the diversity of protein structures from lysates of red blood cells   
-  **Understanding Biology Through Structure, Santa Fe, New Mexico, March 2020.**  
+  **Understanding Biology Through Structure, Santa Fe, New Mexico, March 2020**  
 
 - Title: Separating distinct structures of multiple macromolecular assemblies from cryo-EM projections  
-  **Gordon Research Seminar and Conference for 3DEM, Hong Kong, China, June 2019.**
+  **Gordon Research Seminar and Conference for 3DEM, Hong Kong, China, June 2019**
 
 ---  
 ### Full CV contact: eric.verbeke[at]utexas.edu
