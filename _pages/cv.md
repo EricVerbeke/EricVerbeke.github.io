@@ -74,7 +74,7 @@ Molecular Determinants of Tubulin’s C-Terminal Tail Conformational Ensemble.
 
 # Awards
 - University Graduate Continuing Fellowship, University of Texas at Austin, 2020  
-- Understanding biology through structure travel award, 2020  
+- Understanding Biology Through Structure travel award, 2020  
 - Gordon Research Conference travel award, 2019  
 - David Bruton Jr. Graduate School Fellowship, University of Texas at Austin, 2018  
 - Undergraduate Research Opportunity Program, University of Colorado at Boulder, 2014  
