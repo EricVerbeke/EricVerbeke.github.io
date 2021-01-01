@@ -6,6 +6,8 @@ author_profile: true
 
 ---
 
+---
+
 <!-- 
 change portfolio.html to md
 {% include base_path %}
