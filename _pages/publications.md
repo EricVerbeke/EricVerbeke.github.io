@@ -8,7 +8,7 @@ author_profile: true
 ------
 
 
-<img src="../images/cell_rep_2022.jpg" align=left width="300"/>  
+<img src="../images/cell_rep_2022.jpg" align=left width="400"/>  
 
 ### [The Protein Organization of a red blood cell](https://doi.org/10.1016/j.celrep.2022.111103)  
 W Sae-Lee, CL McCafferty, ***EJ Verbeke***, PC Havugimana, O Papoulas, CD McWhite, JR Houser, K Vanuytsel, GJ Murphy, K Drew, A Emili , DW Taylor, EM Marcotte 
