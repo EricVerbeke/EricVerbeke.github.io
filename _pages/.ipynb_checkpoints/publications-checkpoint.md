@@ -8,7 +8,7 @@ author_profile: true
 ------
 
 
-<img src="../images/cell_rep_2022.jpg" align=left width="400"/>  
+<img src="../images/cell_rep_2022.jpg" align=left width="200"/>  
 
 ### [The Protein Organization of a red blood cell](https://doi.org/10.1016/j.celrep.2022.111103)  
 W Sae-Lee, CL McCafferty, ***EJ Verbeke***, PC Havugimana, O Papoulas, CD McWhite, JR Houser, K Vanuytsel, GJ Murphy, K Drew, A Emili , DW Taylor, EM Marcotte 
@@ -21,7 +21,7 @@ W Sae-Lee, CL McCafferty, ***EJ Verbeke***, PC Havugimana, O Papoulas, CD McWhit
 ------
 
 
-<img src="../images/jpcb.jpeg" align=left width="400"/>  
+<img src="../images/jpcb_2022.jpeg" align=left width="400"/>  
 
 ### [Cross-Seeding Controls Aβ Fibril Populations and Resulting Functions](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.1c09995)  
 MJ Lucas, HS Pan, ***EJ Verbeke***, G Partipilo, EC Helfman, L Kann, BK Keitz, DW Taylor, LJ Webb

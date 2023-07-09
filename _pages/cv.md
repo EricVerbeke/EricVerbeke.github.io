@@ -19,7 +19,7 @@ B.S. in Chemical and Biological Engineering, University of Colorado at Boulder (
 
 ***Postdoctoral Research Associate, Princeton University (2021 - present)***
 
-* Project: Image processing algorithms with application to cryo-EM
+* Project: Image processing algorithms with application to cryo-EM  
   Advisors: Dr. Amit Singer
 
 ***Graduate Research Assistant, University of Texas at Austin (2016 - 2021)***
@@ -92,16 +92,16 @@ Molecular Determinants of Tubulin’s C-Terminal Tail Conformational Ensemble.
 
 
 # Talks and Conferences
-- Cryo-EM Summer Workshop
+- Cryo-EM Summer Workshop  
   ***Flatiron Institute, NYC, June 2023***
 
-- SIAM conference on Mathematics of Data Science
+- SIAM conference on Mathematics of Data Science  
   ***San Diego, September 2022***
 
-- IPAM long program on Computation Microscopy
+- IPAM long program on Computation Microscopy  
   ***UCLA September 2022 - December 2022***
 
-- Title: Don’t Purify in Vein! Structural Insights from Red Blood Cell Lysate
+- Title: Don’t Purify in Vein! Structural Insights from Red Blood Cell Lysate  
   **Gordon Research Seminar and Conference for 3DEM, Castelldefels, Spain, June 2022**
 
 - Title: Developments in shotgun cryo-EM - probing the diversity of protein structures from lysates of red blood cells   
