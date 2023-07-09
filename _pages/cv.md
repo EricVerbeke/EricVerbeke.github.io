@@ -40,9 +40,11 @@ B.S. in Chemical and Biological Engineering, University of Colorado at Boulder (
 
 # Publications
 
-[Sae-Lee W., McCafferty C.L., ***Verbeke E.J.***, Havugimana P.C., Papoulas O., McWhite C.D., Houser J.R., Vanuytsel K., Murphy G.J., Drew K., Emili A., Taylor D.W., Marcotte E.M. (2022). The protein organization of a red blood cell. *Cell Reports*](https://doi.org/10.1016/j.celrep.2022.111103)
+[Sae-Lee W., McCafferty C.L., ***Verbeke E.J.***, Havugimana P.C., Papoulas O., McWhite C.D., Houser J.R., Vanuytsel K., Murphy G.J., Drew K., Emili A., Taylor D.W., Marcotte E.M. (2022). The protein organization of a red blood cell.  
+*Cell Reports*](https://doi.org/10.1016/j.celrep.2022.111103)
 
-[Lucas M.J., Pan H.S., ***Verbeke E.J.***, Partipilo G, Helfman E.C., Kann L, Keitz B.K., Taylor D.W., Webb L.J. (2022). Cross-Seeding Controls Aβ Fibril Populations and Resulting Functions. *J. Phys. Chem. B.*](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.1c09995)
+[Lucas M.J., Pan H.S., ***Verbeke E.J.***, Partipilo G, Helfman E.C., Kann L, Keitz B.K., Taylor D.W., Webb L.J. (2022). Cross-Seeding Controls Aβ Fibril Populations and Resulting Functions.  
+*J. Phys. Chem. B.*](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.1c09995)
 
 [McCafferty, C.M., ***Verbeke, E.J.***, Marcotte, E.M., Taylor, D.W. (2020).  
 Structural Biology in the Multi-Omics Era.  
@@ -92,23 +94,32 @@ Molecular Determinants of Tubulin’s C-Terminal Tail Conformational Ensemble.
 
 
 # Talks and Conferences
-- Cryo-EM Summer Workshop  
-  ***Flatiron Institute, NYC, June 2023***
+- **Cryo-EM Summer Workshop**  
+  Flatiron Institute, NYC, June 2023
 
-- SIAM conference on Mathematics of Data Science  
-  ***San Diego, September 2022***
 
-- IPAM long program on Computation Microscopy  
-  ***UCLA September 2022 - December 2022***
+- **SIAM conference on Mathematics of Data Science*** 
+  San Diego, September 2022
 
-- Title: Don’t Purify in Vein! Structural Insights from Red Blood Cell Lysate  
-  **Gordon Research Seminar and Conference for 3DEM, Castelldefels, Spain, June 2022**
 
-- Title: Developments in shotgun cryo-EM - probing the diversity of protein structures from lysates of red blood cells   
-  **Understanding Biology Through Structure, Santa Fe, New Mexico, March 2020 (Meeting cancelled)**  
+- **IPAM long program on Computational Microscopy**  
+  UCLA September 2022 - December 2022
 
-- Title: Separating distinct structures of multiple macromolecular assemblies from cryo-EM projections  
-  **Gordon Research Seminar and Conference for 3DEM, Hong Kong, China, June 2019**
+
+- **Gordon Research Seminar and Conference for 3DEM**  
+  Castelldefels, Spain, June 2022  
+  Title: Don’t Purify in Vein! Structural Insights from Red Blood Cell Lysate  
+
+
+- **Understanding Biology Through Structure**
+  Santa Fe, New Mexico, March 2020 (Meeting cancelled)  
+  Title: Developments in shotgun cryo-EM - probing the diversity of protein structures from lysates of red blood cells   
+    
+
+- **Gordon Research Seminar and Conference for 3DEM** 
+  Hong Kong, China, June 2019  
+  Title: Separating distinct structures of multiple macromolecular assemblies from cryo-EM projections  
+  
 
 ---  
 ### Full CV contact: ev9102[at]princeton.edu
