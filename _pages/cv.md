@@ -94,32 +94,20 @@ Molecular Determinants of Tubulin’s C-Terminal Tail Conformational Ensemble.
 
 
 # Talks and Conferences
-- **Cryo-EM Summer Workshop**  
-  Flatiron Institute, NYC, June 2023
+- **Cryo-EM Summer Workshop, Flatiron Institute, NYC, June 2023**  
 
+- **SIAM conference on Mathematics of Data Science, San Diego, September 2022**  
 
-- **SIAM conference on Mathematics of Data Science*** 
-  San Diego, September 2022
+- **IPAM long program on Computational Microscopy, UCLA, September 2022 - December 2022**  
 
-
-- **IPAM long program on Computational Microscopy**  
-  UCLA September 2022 - December 2022
-
-
-- **Gordon Research Seminar and Conference for 3DEM**  
-  Castelldefels, Spain, June 2022  
+- **Gordon Research Seminar and Conference for 3DEM, Castelldefels, Spain, June 2022**  
   Title: Don’t Purify in Vein! Structural Insights from Red Blood Cell Lysate  
 
-
-- **Understanding Biology Through Structure**
-  Santa Fe, New Mexico, March 2020 (Meeting cancelled)  
+- **Understanding Biology Through Structure, Santa Fe, New Mexico, March 2020 (meeting cancelled)**  
   Title: Developments in shotgun cryo-EM - probing the diversity of protein structures from lysates of red blood cells   
-    
 
-- **Gordon Research Seminar and Conference for 3DEM** 
-  Hong Kong, China, June 2019  
+- **Gordon Research Seminar and Conference for 3DEM, Hong Kong, China, June 2019**  
   Title: Separating distinct structures of multiple macromolecular assemblies from cryo-EM projections  
-  
 
 ---  
 ### Full CV contact: ev9102[at]princeton.edu

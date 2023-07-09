@@ -5,6 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+------
+
+
+<img src="../images/comms_bio_2023.png" align=left width="400"/>  
+
+### [Self Fourier shell correlation: properties and application to cryo-ET](https://github.com/EricVerbeke/self_fourier_shell_correlation)  
+***EJ Verbeke***, M Gilles, T Bendory, A Singer 
+
+*In Review*
+
+<br clear="left"/>
+
+
 ------
 
 
