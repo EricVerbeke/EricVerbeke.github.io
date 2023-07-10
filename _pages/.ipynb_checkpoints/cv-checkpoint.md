@@ -40,10 +40,12 @@ B.S. in Chemical and Biological Engineering, University of Colorado at Boulder (
 
 # Publications
 
-[Sae-Lee W., McCafferty C.L., ***Verbeke E.J.***, Havugimana P.C., Papoulas O., McWhite C.D., Houser J.R., Vanuytsel K., Murphy G.J., Drew K., Emili A., Taylor D.W., Marcotte E.M. (2022). The protein organization of a red blood cell.  
+[Sae-Lee W., McCafferty C.L., ***Verbeke E.J.***, Havugimana P.C., Papoulas O., McWhite C.D., Houser J.R., Vanuytsel K., Murphy G.J., Drew K., Emili A., Taylor D.W., Marcotte E.M. (2022).  
+The protein organization of a red blood cell.  
 *Cell Reports*](https://doi.org/10.1016/j.celrep.2022.111103)
 
-[Lucas M.J., Pan H.S., ***Verbeke E.J.***, Partipilo G, Helfman E.C., Kann L, Keitz B.K., Taylor D.W., Webb L.J. (2022). Cross-Seeding Controls Aβ Fibril Populations and Resulting Functions.  
+[Lucas M.J., Pan H.S., ***Verbeke E.J.***, Partipilo G, Helfman E.C., Kann L, Keitz B.K., Taylor D.W., Webb L.J. (2022).  
+Cross-Seeding Controls Aβ Fibril Populations and Resulting Functions.  
 *J. Phys. Chem. B.*](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.1c09995)
 
 [McCafferty, C.M., ***Verbeke, E.J.***, Marcotte, E.M., Taylor, D.W. (2020).  
