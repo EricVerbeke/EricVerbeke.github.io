@@ -5,16 +5,37 @@ permalink: /publications/
 author_profile: true
 ---
 
+------
+
+<img src="../images/BioIm_2024_fig1.png" align=left width="400"/>  
+
+### [Algebraic constraints and algorithms for common lines in cryo-EM](https://doi.org/10.1017/S2633903X24000072)
+T Muller, A Duncan, ***EJ Verbeke***, J Kileel
+
+*Biological Imaging, 2024*
+
+<br clear="left"/>
+
+------
+
+<img src="../images/BioIm_2024_fig2.png" align=left width="400"/>  
+
+### [Moment-based metrics for molecules computable from cryogenic electron microscopy images](https://doi.org/10.1017/S2633903X24000023)
+A Zhang, O Mickelin, J Kileel, ***EJ Verbeke***, NF Marshall, M Gilles, A Singer
+
+*Biological Imaging, 2024*
+
+<br clear="left"/>
 
 ------
 
 
 <img src="../images/comms_bio_2023.png" align=left width="400"/>  
 
-### [Self Fourier shell correlation: properties and application to cryo-ET](https://github.com/EricVerbeke/self_fourier_shell_correlation)  
+### [Self Fourier shell correlation: properties and application to cryo-ET](https://doi.org/10.1038/s42003-023-05724-y)  
 ***EJ Verbeke***, M Gilles, T Bendory, A Singer 
 
-*In Review*
+*Communications Biology, 2024*
 
 <br clear="left"/>
 
