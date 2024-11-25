@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+See my [Google Scholar](https://scholar.google.com/citations?user=0jB6ICsAAAAJ&hl=en) page
+
 ------
 
 <img src="../images/BioIm_2024_fig1.png" align=left width="400"/>  
