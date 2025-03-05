@@ -9,6 +9,15 @@ Link to my [Google Scholar](https://scholar.google.com/citations?user=0jB6ICsAAA
 
 ------
 
+<img src="../images/ot_align.png" align=left width="400"/>  
+
+### [Fast alignment of heterogeneous images in sliced Wasserstein distance](https://github.com/EricVerbeke/fast_image_alignment_ot)
+Y Shi, A Singer, ***EJ Verbeke***
+
+<br clear="left"/>
+
+------
+
 <img src="../images/BioIm_2024_fig1.png" align=left width="400"/>  
 
 ### [Algebraic constraints and algorithms for common lines in cryo-EM](https://doi.org/10.1017/S2633903X24000072)
@@ -47,7 +56,7 @@ A Zhang, O Mickelin, J Kileel, ***EJ Verbeke***, NF Marshall, M Gilles, A Singer
 
 <img src="../images/cell_rep_2022.jpg" align=left width="400"/>  
 
-### [The Protein Organization of a red blood cell](https://doi.org/10.1016/j.celrep.2022.111103)  
+### [The Protein organization of a red blood cell](https://doi.org/10.1016/j.celrep.2022.111103)  
 W Sae-Lee, CL McCafferty, ***EJ Verbeke***, PC Havugimana, O Papoulas, CD McWhite, JR Houser, K Vanuytsel, GJ Murphy, K Drew, A Emili , DW Taylor, EM Marcotte 
 
 *Cell Reports, 2022*
@@ -60,7 +69,7 @@ W Sae-Lee, CL McCafferty, ***EJ Verbeke***, PC Havugimana, O Papoulas, CD McWhit
 
 <img src="../images/jpcb_2022.jpeg" align=left width="400"/>  
 
-### [Cross-Seeding Controls Aβ Fibril Populations and Resulting Functions](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.1c09995)  
+### [Cross-seeding controls Aβ fibril populations and resulting functions](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.1c09995)  
 MJ Lucas, HS Pan, ***EJ Verbeke***, G Partipilo, EC Helfman, L Kann, BK Keitz, DW Taylor, LJ Webb
 
 *Journal of Physical Chemistry B, 2022*
@@ -74,7 +83,7 @@ MJ Lucas, HS Pan, ***EJ Verbeke***, G Partipilo, EC Helfman, L Kann, BK Keitz, D
 
 <img src="../images/JCIM_2020_abstract.jpeg" align=left width="400"/>  
 
-### [Structural Biology in the Multi-Omics Era](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b01164)  
+### [Structural biology in the multi-omics era](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b01164)  
 CL McCafferty, ***EJ Verbeke***, EM Marcotte, DW Taylor  
 
 *Journal of Chemical Information and Modeling, 2020*
@@ -87,7 +96,7 @@ CL McCafferty, ***EJ Verbeke***, EM Marcotte, DW Taylor
 
 <img src="../images/Langmuir_2020_abstract.png" align=left width="400"/>  
 
-### [Functionalized Mesoporous Silicas Direct Structural Polymorphism of Amyloid-β Fibrils](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.0c00827)  
+### [Functionalized mesoporous silicas direct structural polymorphism of amyloid-β fibrils](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.0c00827)  
 MJ Lucas\*, H Pan\*, ***EJ Verbeke****, LJ Webb, DW Taylor, BK Keitz  
 
 *Langmuir, 2020*
