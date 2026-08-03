@@ -14,7 +14,8 @@ Link to my [Google Scholar](https://scholar.google.com/citations?user=0jB6ICsAAA
 ### [Fast alignment of heterogeneous images in sliced Wasserstein distance](https://doi.org/10.1137/25M1742916)
 Y Shi, A Singer, ***EJ Verbeke***
 
-*SIAM Journal on Imaging Sciences*
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*SIAM Journal on Imaging Sciences*
+<!--  -->
 
 <br clear="left"/>
 
