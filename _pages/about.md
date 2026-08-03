@@ -30,7 +30,7 @@ Prior to joining PACM, I obtained a B.S. in Chemical and Biological Engineering 
 - Computational imaging / Cryo-EM
 - Systems biology / Single cell RNA-sequencing
 
-<br/>
+<!-- <br/> -->
 
 If you are interested in collaborating or have questions about my research, please feel free to contact me
 
