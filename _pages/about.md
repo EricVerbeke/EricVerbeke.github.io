@@ -20,17 +20,22 @@ Prior to joining PACM, I obtained a B.S. in Chemical and Biological Engineering 
 
 <br/>
 
-<img src="../images/summary_figure.pdf" align=center width="800">  
+<img src="../images/summary_figure.png" align=center width="1000">  
 
 ### Research Interests
 ---
 - Mathematics of data science
-- Signal processing and optimal transport
-- Cryo-EM / Systems biology
+- Signal processing
+- Optimal transport
+- Computational imaging
+- Cryo-EM
+- Systems biology
 
 <br/>
+
+If you are interested in collaborating or have questions about my research, please feel free to contact me
 
 ### Contact
 ---
 
-ev9102[at]princeton.edu
+ericverbeke73[at]gmail.com
