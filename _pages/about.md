@@ -18,7 +18,7 @@ Previously I was a DataX Postdoctoral Research Associate in the Program for Appl
 
 Prior to joining PACM, I obtained a B.S. in Chemical and Biological Engineering from the University of Colorado at Boulder and a PhD in Biochemistry at the University of Texas at Austin. During my PhD, I developed experimental and computational methods to establish a data-driven approach to structural biology by combining large multi-modal datasets. My PhD advisors were [Dr. Edward Marcotte](http://www.marcottelab.org/index.php/Main_Page) and [Dr. David Taylor](https://davidtaylorlab.com/). 
 
-<br/>
+<!-- <br/> -->
 
 <img src="../images/summary_figure.png" align=center width="1000">  
 
