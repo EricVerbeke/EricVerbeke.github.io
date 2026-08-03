@@ -26,11 +26,9 @@ Prior to joining PACM, I obtained a B.S. in Chemical and Biological Engineering 
 ### Research Interests
 ---
 - Mathematics of data science
-- Signal processing
-- Optimal transport
-- Computational imaging
-- Cryo-EM
-- Systems biology
+- Signal processing / Optimal transport
+- Computational imaging / Cryo-EM
+- Systems biology / Single cell RNA-sequencing
 
 <br/>
 
