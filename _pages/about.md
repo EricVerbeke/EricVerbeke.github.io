@@ -22,7 +22,6 @@ Prior to joining PACM, I obtained a B.S. in Chemical and Biological Engineering 
 
 <img src="../images/summary_figure.png" align=center width="1000">  
 
-<br/>
 
 ### Research Interests
 ---
